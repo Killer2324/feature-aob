@@ -73,8 +73,8 @@ Pattern1=
 Patch1=
 
 [ResetGuest]
-Pattern1=
-Patch1=
+Pattern1=10 4C 2D E9 08 B0 8D E2 0C 01 9F E5 00 00 8F E0 00 00 D0 E5 00 00 50 E3 06 00 00 1A FC 00 9F E5 00 00 9F E7 00 00 90 E5
+Patch1=01 00 A0 E3 1E FF 2F E1
 
 [CameraUp]
 Pattern1=
