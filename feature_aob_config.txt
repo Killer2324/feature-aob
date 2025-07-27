@@ -11,8 +11,8 @@ Pattern1=
 Patch1=
 
 [SniperDelay]
-Pattern1=
-Patch1=
+Pattern1=EA 00 60 A0 E3 06 00 A0 E1 18 D0 4B E2 02 8B BD EC 70 8C
+Patch1=01 00 AF E3
 
 [SniperScopeTracking]
 Pattern1=
