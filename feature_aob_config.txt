@@ -57,12 +57,12 @@ Pattern2=00 00 C8 42 70 4C 2D E9 10 B0 8D E2 01 50 A0 E1 00 40 A0 E1 00 00 55 E3
 Patch2=00 80 BB 44 70 4C 2D E9 10 B0 8D E2 01 50 A0 E1 00 40 A0 E1 00 00 55 E3 01 00 00 0A BA 60 D5 E1
 
 [Wallhack]
-Pattern1=
-Patch1=
+Pattern1=ae 47 81 3f ae 47 81 3f ae 47 81 3f ae 47 81 3f 00 1a b7 ee dc 3a 9f ed
+Patch1=00 00 ef c1 ae 47 81 3f ae 47 81 3f ae 47 81 3f 00 1a b7 ee dc 3a 9f ed
 
 [WallhackBypass]
-Pattern1=
-Patch1=
+Pattern1=90 8d e5 28 90 8d e5 24 90 8d e5 20 90 8d e5 1c 90 8d e5 18 90 8d e5 10 90 8d e5 08 60 8d e5 82 00 8d e8 10 17 02 e3 3c ff 2f e1 dc a0 94 e5 00 00 5a e3 0f 00 00 1a 00 00 58 e3 01 00 00 1a 00
+Patch1=90 8d e5 28 90 8d e5 24 90 8d e5 20 90 8d e5 1c 90 8d e5 18 90 8d e5 10 90 8d e5 08 60 8d e5 82 00 8d ae 90 17 44 3f ef f0 3f e1 dc a0 94 e5 00 00 5a e3 0f 00 00 1a 00 00 58 e3 01 00 00 1a 00
 
 [AWMLocation]
 Pattern1=
