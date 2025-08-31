@@ -25,3 +25,7 @@ Patch1=01 00 A0 E3 1E FF 2F E1
 [SniperDelayFix]
 Pattern1=EA 00 60 A0 E3 06 00 A0 E1 18 D0 4B E2 02 8B BD EC 70 8C
 Patch1=01 00 AF E3
+
+[NoReload]
+Pattern1=A0 E3 6D 00 00 EB 00 0A B7 EE
+Patch1=FF 02 44 E3 00 0A B7 EE 10 0A
