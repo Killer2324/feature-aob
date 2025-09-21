@@ -20,7 +20,7 @@ Patch1=8D E5 10 17 02 E3 3f f0 3f e3
 
 [SpeedHack]
 Pattern1=01 00 00 00 02 2B 07 3D
-Patch1=01 00 00 00 92 E4 68 3D
+Patch1=01 00 00 00 92 e4 50 3d
 
 [WallHackBypass]
 Pattern1=A0 E3 14 00 8D E5 09 00 A0 E1 18 10 8D E5 1C 10 8D E5 10 17 02 E3 35 FF 2F E1
